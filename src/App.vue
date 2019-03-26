@@ -5,7 +5,7 @@
 </template>
 
 <style lang="less">
-html,body,div,p,ul,li,form{
+html,body,div,p,ul,li,form,h1,h2,h3{
   padding: 0;
   margin: 0;
 }
